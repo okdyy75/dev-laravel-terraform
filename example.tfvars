@@ -1,0 +1,12 @@
+root_domain="okdyy75.ga"
+dev_laravel_domain="dev-laravel.okdyy75.ga"
+github_personal_access_token="xxxxxxxxxx"
+web_ssh_key_name="xxxxx"
+web_ssh_public_key="xxxxx.pub"
+web_server_count=2
+db_name="xx"
+db_username="xxxxx"
+db_password="xxxxxxxx"
+aws_access_key_id="xxxxx"
+aws_secret_access_key="xxxxxxxx"
+aws_bucket="y-oka-s3"
